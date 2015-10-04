@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alua</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_execution">ExecutionActivity</string>
+</resources>
